@@ -1,0 +1,24 @@
+.contact{
+    background: #2879fe;
+    color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+
+
+
+    .wrapper{
+        width: 60%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .icons{
+        display: flex;
+        gap: 10px;
+    }
+}
+
+
+

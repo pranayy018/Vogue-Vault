@@ -1,0 +1,24 @@
+h1{
+    font-size: 18px;
+    font-weight: 500;
+    color: #555;
+}
+
+.top{
+    display: flex;
+    gap: 50px;
+
+}
+
+.item-footer{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 14px;
+    text-align: justify;
+}
+
+span{
+    color: gray;
+}
